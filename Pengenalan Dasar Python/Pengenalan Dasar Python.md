@@ -77,7 +77,38 @@ print(type(sedang_dibaca))   # Output: <class 'bool'>
 
 Buat sebuah variabel bernama `suhu_celcius` dengan nilai `27.5`. Periksa dan cetak tipe datanya. Kemudian, coba ubah nilai variabel tersebut menjadi sebuah teks (misalnya, `"dua puluh tujuh"`) dan periksa kembali tipe datanya. Amati perubahannya.
 
------
+**Latihan 3:**
+
+Sistem Pendaftaran Mahasiswa
+
+```python
+"""
+Buat program sederhana untuk menyimpan data mahasiswa baru
+"""
+
+# Data mahasiswa
+nama_mahasiswa = "John Doe"
+nim = "202507001"
+usia = 19
+tinggi_badan = 170.5
+aktif = True
+mata_kuliah = ["Algoritma dan Dasar Pemrograman", "Bahasa Indonesia", "Sistem Operasi"]
+
+print("=== DATA MAHASISWA ===")
+print(f"Nama: {nama_mahasiswa} (tipe: {type(nama_mahasiswa)})")
+print(f"NIM: {nim} (tipe: {type(nim)})")
+print(f"Usia: {usia} tahun (tipe: {type(usia)})")
+print(f"Tinggi Badan: {tinggi_badan} cm (tipe: {type(tinggi_badan)})")
+print(f"Status Aktif: {aktif} (tipe: {type(aktif)})")
+print(f"Mata Kuliah: {mata_kuliah} (tipe: {type(mata_kuliah)})")
+
+```
+Tugas Tambahan untuk Dipraktikkan:
+
+- Modifikasi setiap program dengan menambahkan data baru
+- Ubah `tipe data` beberapa `variabel` dan amati efeknya
+- Buat program baru dengan konsep yang sama untuk kasus berbeda
+
 
 ## **3. Operator**
 
