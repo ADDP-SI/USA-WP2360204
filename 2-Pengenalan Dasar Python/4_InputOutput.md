@@ -16,7 +16,9 @@ print("Nama saya", nama, "dan umur saya", umur, "tahun.")
 # Menggunakan f-string (cara yang lebih modern dan direkomendasikan) 
 
 # F-string memungkinkan penulisan variabel langsung di dalam string dengan menggunakan tanda kurung kurawal {}
+
 # F-string juga mendukung ekspresi Python, format angka, dan lain-lain.
+
 # Contoh lain penggunaan f-string:
 
 angka = 10
