@@ -200,7 +200,7 @@ Bunga tahunan: 5.0%
 Saldo setelah 1 tahun: Rp 1,050,000.00
 ```
 
-## Versi Lengkap dengan Simulasi Beberapa Tahun
+**Versi Lengkap dengan Simulasi Beberapa Tahun**
 
 ```python
 def simulasi_bunga():
@@ -254,7 +254,7 @@ Tahun 2:
 ... (dan seterusnya)
 ```
 
-## Versi Interaktif dengan Input Pengguna
+**Versi Interaktif dengan Input Pengguna**
 
 ```python
 def kalkulator_bunga_interaktif():
