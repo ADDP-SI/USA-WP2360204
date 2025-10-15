@@ -12,6 +12,6 @@ Selamat datang di praktikum pertama pemrograman Python\! Modul ini akan memandu 
 
 ## **Table of Contents**
 
-- [1. Variable](/Pengenalan%20Dasar%20Python/1_Variable.md)
-- [2. Tipe Data](/Pengenalan%20Dasar%20Python/2_TipeData.md)
-- [3. Operator](/Pengenalan%20Dasar%20Python/3_Operator.md3_Operator.md)
+[1. Variable](/Pengenalan%20Dasar%20Python/1_Variable.md)
+[2. Tipe Data](/Pengenalan%20Dasar%20Python/2_TipeData.md)
+[3. Operator](/Pengenalan%20Dasar%20Python/3_Operator.md)
