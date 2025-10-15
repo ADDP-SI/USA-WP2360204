@@ -41,6 +41,7 @@ Masukkan angka kedua: 4
 Kode ini juga menggunakan fungsi `input()` untuk mengambil input dari pengguna dan mengkonversi ke tipe data yang sesuai.
 
 **Versi alternative dengan penanganan input yang lebih baik:**
+
 ```python
 def kalkulator_aritmatika():
     try:
@@ -130,7 +131,8 @@ print(f"{suhu_celcius}°C = {suhu_fahrenheit}°F")
 ```
 
 **Contoh Output:**
-```
+
+```bash
 Masukkan suhu dalam Celcius: 30
 
 --- Hasil Konversi Suhu ---
@@ -168,7 +170,8 @@ if __name__ == "__main__":
 ```
 
 **Contoh Output Versi Lengkap:**
-```
+
+```bash
 Masukkan suhu dalam Celcius: 30
 
 ==============================
@@ -179,15 +182,17 @@ Fahrenheit  : 86.00°F
 ==============================
 ```
 
-## Penjelasan Rumus:
+**Penjelasan Rumus:**
 
-**Rumus Konversi:**
-```
+_Rumus Konversi:_
+
+```bash
 F = (C × 9/5) + 32
 ```
 
 **Contoh perhitungan untuk 30°C:**
-```
+
+```bash
 F = (30 × 9/5) + 32
   = (30 × 1.8) + 32
   = 54 + 32
@@ -195,6 +200,7 @@ F = (30 × 9/5) + 32
 ```
 
 **Beberapa contoh konversi lainnya:**
+
 - 0°C = 32°F (titik beku air)
 - 100°C = 212°F (titik didih air)
 - 37°C = 98.6°F (suhu tubuh normal)
@@ -205,6 +211,7 @@ Program ini dapat menerima input angka desimal (seperti 25.5) dan akan mengkonve
 **Berikut program Python untuk mengkonversi total detik menjadi format jam, menit, dan detik:**
 
 **Versi Dasar (dengan nilai tetap)**
+
 ```python
 # Variabel total detik
 total_detik = 3661
@@ -245,7 +252,8 @@ print(f"Jam: {jam}, Menit: {menit}, Detik: {detik}")
 ```
 
 **Contoh Output:**
-```
+
+```bash
 Masukkan total detik: 3661
 
 --- Hasil Konversi ---
@@ -313,13 +321,15 @@ Jam: 2, Menit: 0, Detik: 0
 ```
 
 **Input: 12345 detik**
-```
+
+```bash
 Total detik: 12345
 Jam: 3, Menit: 25, Detik: 45
 ```
 
 **Input: 65 detik**
-```
+
+```bash
 Total detik: 65
 Jam: 0, Menit: 1, Detik: 5
 ```
@@ -334,7 +344,8 @@ Jam: 0, Menit: 1, Detik: 5
 4. **Detik** = `61 % 60` = `1`
 
 **Verifikasi:**
-```
+
+```bash
 1 jam = 3600 detik
 1 menit = 60 detik
 1 detik = 1 detik
