@@ -6,7 +6,7 @@ Selamat datang di praktikum pertama pemrograman Python\! Modul ini akan memandu 
 
 1.  Memahami konsep **variabel** dan cara mendeklarasikannya.
 2.  Mengenali **tipe data** dasar seperti string, integer, float, dan boolean.
-3.  Menggunakan berbagai jenis **operator** (aritmatika, perbandingan, logika).
+3.  Menggunakan berbagai jenis **operator** (aritmatika, penugasan, perbandingan, logika, bitwise, dan ternary).
 4.  Mengimplementasikan fungsi dasar **input** dan **output**.
 
 
