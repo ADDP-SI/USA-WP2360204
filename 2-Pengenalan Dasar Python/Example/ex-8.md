@@ -39,7 +39,7 @@ Dewasa
 
 -----
 
-## **Jawaban Latihan 2.1: Hitung Manual Bitwise**
+## **Jawaban Latihan 2: Hitung Manual Bitwise**
 
 Tugasnya adalah menghitung hasil dari `9 | 5`.
 
