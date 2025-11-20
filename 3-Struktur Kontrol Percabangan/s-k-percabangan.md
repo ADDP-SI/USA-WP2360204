@@ -32,7 +32,7 @@ if kondisi:
 
 > **PENTING:** Python sangat bergantung pada **indentasi** (jarak menjorok ke dalam). Semua kode yang ingin Anda masukkan ke dalam blok `if` harus memiliki indentasi yang sama (biasanya 4 spasi atau 1 Tab).
 
-### **Contoh Coding Langsung 1:**
+### **Contoh 1:**
 
 ```python
 # Program untuk memberi diskon jika belanja di atas 200rb
@@ -67,7 +67,7 @@ else:
     pernyataan_false_1
 ```
 
-### **Contoh Coding Langsung 2: Program Cek Kelulusan 🎓**
+### **Contoh 2: Program Cek Kelulusan**
 
 Mari kita buat program yang diminta: menentukan kelulusan berdasarkan Nilai Kriteria Ketuntasan Minimal (KKM).
 
@@ -118,7 +118,7 @@ else:
     pernyataan_default
 ```
 
-### **Contoh Coding Langsung 3: Program Kategori Umur 👶👱‍♂️👵**
+### **Contoh 3: Program Kategori Umur**
 
 Mari kita buat program kedua yang diminta: mengelompokkan usia.
 
