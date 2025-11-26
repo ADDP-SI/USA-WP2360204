@@ -1,6 +1,6 @@
-# **Modul Praktikum 6: Struktur Kontrol Perulangan**
+# **Modul Praktikum 4: Struktur Kontrol Perulangan**
 
-Selamat datang di modul keenam\! Setelah kita belajar bagaimana program bisa "memilih" jalur (percabangan), sekarang kita akan belajar bagaimana program bisa **mengulang** tugas secara otomatis. Ini adalah salah satu konsep paling kuat dalam pemrograman, yang memungkinkan kita melakukan ribuan operasi hanya dengan beberapa baris kode.
+Selamat datang di modul keempat\! Setelah kita belajar bagaimana program bisa "memilih" jalur (percabangan), sekarang kita akan belajar bagaimana program bisa **mengulang** tugas secara otomatis. Ini adalah salah satu konsep paling kuat dalam pemrograman, yang memungkinkan kita melakukan ribuan operasi hanya dengan beberapa baris kode.
 
 **Struktur Kontrol Perulangan** (atau *Loops*) digunakan untuk mengeksekusi satu blok kode berulang kali selama kondisi tertentu masih terpenuhi.
 
