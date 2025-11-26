@@ -1,6 +1,6 @@
-# **Modul Praktikum 7: Struktur Data Dasar (List & Tuple)**
+# **Modul Praktikum 5: Struktur Data Dasar (List & Tuple)**
 
-Selamat datang di modul ketujuh\! Hingga saat ini, kita telah menggunakan variabel (seperti `nilai = 80`) untuk menyimpan **satu** data. Namun, dalam algoritma, kita seringkali perlu menyimpan **kumpulan** data.
+Selamat datang di modul kelima\! Hingga saat ini, kita telah menggunakan variabel (seperti `nilai = 80`) untuk menyimpan **satu** data. Namun, dalam algoritma, kita seringkali perlu menyimpan **kumpulan** data.
 
 Bayangkan Anda harus menyimpan 100 nilai mahasiswa. Apakah Anda akan membuat 100 variabel (`nilai1`, `nilai2`, `nilai3`, ...)? Tentu tidak. Di sinilah **Struktur Data** berperan. Kita akan fokus pada dua yang paling dasar di Python: **List** dan **Tuple**.
 
