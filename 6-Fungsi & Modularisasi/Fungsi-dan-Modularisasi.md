@@ -323,7 +323,7 @@ Kriteria Penilaian:
 - Penanganan input yang salah (misalnya huruf bukan angka)
 - Kode rapi, ada komentar, dan mudah dibaca
 
-Selamat mengerjakan! 🚀
+Selamat mengerjakan!
 
 ## Referensi Tambahan
 
